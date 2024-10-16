@@ -5,3 +5,5 @@ project(hello)
 set(HELLO_SRC ${CMAKE_CURRENT_SOURCE_DIR}/hello.cpp)
 
 add_library(hellolib SHARED ${HELLO_SRC})
+
+target_include_directories(hellolib SYSTEM INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
