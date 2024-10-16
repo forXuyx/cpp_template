@@ -1,0 +1,3 @@
+/home/xyx/cpp_template/build/CMakeFiles/main.dir
+/home/xyx/cpp_template/build/CMakeFiles/edit_cache.dir
+/home/xyx/cpp_template/build/CMakeFiles/rebuild_cache.dir
