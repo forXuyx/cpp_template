@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/hello/hello.cpp.o CMakeFiles/main.dir/world/world.cpp.o -o main 
